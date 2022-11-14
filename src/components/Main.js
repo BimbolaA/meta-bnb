@@ -39,7 +39,7 @@ export default function Main() {
                     ratings="./images/Ratings.png"
                 />
             </div>
-            <div className="main-grid">
+            <div className="main-grid main-grid-bottom">
                 <Card 
                    img="./images/Frame5.png"
                    title="Desert king"

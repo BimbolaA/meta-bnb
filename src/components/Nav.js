@@ -36,7 +36,7 @@ export default function Nav() {
                         in the metaverse, get a chance to turn your imagination 
                         to reality at your comfort zone
                     </p>
-                    <div>
+                    <div className="search">
                         <input type="text" placeholder="Search for location" />
                         <button>Search</button>
                     </div>

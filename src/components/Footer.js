@@ -20,7 +20,7 @@ export default function Footer() {
             </div>
             <div className="footer-bottom">
                 <div>
-                    <img src="./images/footer-logo.svg" alt="" />
+                    <img src="./images/footer-logo.svg" alt="" className="footer-logo"/>
                     <div className="socials">
                         <img src="./images/fb.png" alt="" />
                         <img src="./images/ig.png" alt="" />
