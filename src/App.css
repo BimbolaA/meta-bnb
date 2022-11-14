@@ -399,6 +399,18 @@ footer ul {
     left: 115px;
     top: 150px;
   }
+
+  .place-links ul {
+    display: grid;
+    gap: 8px;
+    grid-template-columns: 1fr 1fr 1fr;
+    margin-left: 100px;
+  }
+
+  .place-links button {
+    margin-left: 1px;
+  }
+  
 }
 
 @media screen and (max-width: 375px) {
@@ -524,6 +536,16 @@ footer ul {
     height: 50%;
     left: 5px;
     top: 30px;
+  }
+
+  .place-links {
+    margin: 20px;
+
+  }
+
+  .place-links ul {
+    display: block;
+    margin: 0;
   }
 
 }

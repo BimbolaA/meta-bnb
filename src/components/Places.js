@@ -10,8 +10,8 @@ export default function Places(){
         <>
         <div className="header-nav">
             <div>
-                <img src="../images/Logo1.png" alt="" className="logo-left" />
-                <img src="../images/Logo2.png" alt="" className="logo-text" />
+                <Link to='#'><img src="../images/Logo1.png" alt="" className="logo-left" /></Link>
+                <Link to='#'><img src="../images/Logo2.png" alt="" className="logo-text" /></Link>
             </div>
             <div className="nav-link">
                 <ul>

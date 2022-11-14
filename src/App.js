@@ -6,19 +6,13 @@ import Nav from './components/Nav';
 import Footer from './components/Footer';
 import Modal from './components/Modal';
 import Places from './components/Places';
+import Home from './components/Home';
 
 function App() {
       return (
         <BrowserRouter>
           <Routes>
-            <Route path='/' element={
-            <div className="App">
-              <Nav />
-              <Main />
-              <Footer />
-              <Modal />
-            </div>
-          } />
+            <Route path='/' element={<Home /> } />
           <Route path='/Places' element = {<Places />} />
           </Routes>
         </BrowserRouter>
