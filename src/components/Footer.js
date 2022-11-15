@@ -42,19 +42,19 @@ export default function Footer() {
                 <div>
                     <h3>Places</h3>
                     <ul>
-                        <li>NFT</li>
-                        <li>Tokens</li>
-                        <li>Landlords</li>
-                        <li>Discord</li>
+                        <li>Castle</li>
+                        <li>Farms </li>
+                        <li>Beach</li>
+                        <li>Learn more</li>
                     </ul>
                 </div>
                 <div>
                     <h3>About us</h3>
                     <ul>
-                        <li>NFT</li>
-                        <li>Tokens</li>
-                        <li>Landlords</li>
-                        <li>Discord</li>
+                        <li>Road map</li>
+                        <li>Creators </li>
+                        <li>Career</li>
+                        <li>Contact us</li>
                     </ul>
                 </div>
             </div>
